@@ -8,5 +8,5 @@ I'm here to provide high quality scripts for free!
 
 - 👨‍💻 Small projects available at - [https://github.com/NaorNC?tab=repositories](https://github.com/NaorNC?tab=repositories)
 
-- 👨‍💼 Currently sold over - **100+ QBCore server files** at discord.gg/ShadesDevelopment
+- 👨‍💼 Currently sold over - **100+ QBCore server files** at discord.gg/ShadesDevelopment <br>
 Feel free to join the us!
