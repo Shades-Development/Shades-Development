@@ -1,5 +1,4 @@
-# Shades
-[![Shades GitHub Banner] (https://cdn.discordapp.com/attachments/1016745636844011661/1228672086780809257/Github_Banner.png?ex=662ce50d&is=661a700d&hm=8bb1e082055a2d71dc68a6521866b7849afe79c630dbf26d72797f817158fc68&)]
+![Shades Banner](https://github.com/Shades-Development/Shades/assets/88840862/b41ae448-945e-498c-ab5c-907982ce12c4)
 
 <h1 align="center">Ayo, I'm NaorNC 👋</h1>
 <h3 align="center">#Here_To_Enjoy</h3>
