@@ -1,5 +1,5 @@
 # Shades
-![Shades GitHub Banner](https://imgur.com/a/tSShStB)
+![Shades GitHub Banner (https://imgur.com/uGabgG5)]
 
 <h1 align="center">Ayo, I'm NaorNC 👋</h1>
 <h3 align="center">#Here_To_Enjoy</h3>
