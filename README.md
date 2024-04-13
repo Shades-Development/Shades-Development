@@ -8,5 +8,5 @@ We're here to provide high quality scripts for free!
 
 - 👨‍💻 Our scripts are available at - [https://github.com/Shades-Development?tab=repositories](https://github.com/Shades-Development?tab=repositories)
 
-- 👨‍💼 Currently sold over - **100+ QBCore server files** at discord.gg/ShadesDevelopment <br>
+- 👨‍💼 Currently sold over - **100+ QBCore Server Files** at discord.gg/ShadesDevelopment <br>
 <br> Feel free to join us​!🚀​
