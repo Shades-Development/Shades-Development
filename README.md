@@ -1,5 +1,5 @@
 # Shades
-![Project Sloth GitHub Banner](https://user-images.githubusercontent.com/91661118/168956591-43462c40-e7c2-41af-8282-b2d9b6716771.png)
+![Shades GitHub Banner](https://imgur.com/a/tSShStB)
 
 <h1 align="center">Ayo, I'm NaorNC 👋</h1>
 <h3 align="center">#Here_To_Enjoy</h3>
