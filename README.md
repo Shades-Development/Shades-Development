@@ -1,6 +1,6 @@
 ![Shades Banner](https://github.com/Shades-Development/Shades/assets/88840862/b41ae448-945e-498c-ab5c-907982ce12c4)
 
-<h1 align="center">Shades</h1>
+<h1 align="center">Hi there, I'm Shades👋</h1>
 
 We're here to provide high quality scripts for free!
 
